@@ -1,0 +1,8 @@
+Git init
+Git add
+Git status
+Git commit
+Git log
+Git diff
+Git remote add origin
+Git push -u origin master 
